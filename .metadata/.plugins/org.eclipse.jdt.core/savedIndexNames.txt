@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/intergalaxy/Desktop/Java Udemy/.metadata/.plugins/org.eclipse.jdt.core
+409909306.index
+801833096.index
+1865797976.index
